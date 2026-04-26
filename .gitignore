@@ -1,0 +1,22 @@
+# binaire
+so_long
+
+# objets et libs
+*.o
+*.a
+
+# archives sources
+*.tgz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editeurs IDE
+.vscode/
+.idea/
+
+# editeurs
+*.swp
+*.swo
+*~
